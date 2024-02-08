@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="C:\Users\hp\IdeaProjects\cs-665-project-template\src\main\java\edu\bu\met\cs665\example1\Beverage.java">
+<error line="6" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="8" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="28" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="12" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="29" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="5" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="38" column="82" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" column="18" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" column="18" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="40" column="19" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" column="19" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="41" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="41" column="38" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="41" column="38" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="42" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" severity="warning" message="顶级类 Coffee 应位于它自己的源文件中。" source="com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck"/>
+<error line="46" column="30" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="47" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" severity="warning" message="本行字符数 120个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="50" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="50" column="96" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="51" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" column="24" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="52" column="24" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="53" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="warning" message="顶级类 Tea 应位于它自己的源文件中。" source="com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck"/>
+<error line="56" column="27" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="57" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" column="91" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="61" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" column="21" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="62" column="21" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="63" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\hp\IdeaProjects\cs-665-project-template\src\main\java\edu\bu\met\cs665\example1\Integrity.java">
+<error line="6" severity="warning" message="本行字符数 102个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="7" severity="warning" message="本行字符数 107个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="8" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="22" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="31" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="40" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="41" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="44" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="44" column="5" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="44" column="65" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="45" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="45" column="18" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="45" column="18" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="46" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" column="19" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="46" column="19" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="47" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" column="24" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="47" column="24" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="48" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" severity="warning" message="顶级类 Milk 应位于它自己的源文件中。" source="com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck"/>
+<error line="52" column="29" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="53" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="53" column="59" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="54" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="55" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="58" severity="warning" message="顶级类 Sugar 应位于它自己的源文件中。" source="com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck"/>
+<error line="58" column="30" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="59" severity="warning" message="&apos;member def type&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" severity="warning" message="&apos;CTOR_DEF 前应有空行。" source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="60" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" column="58" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="61" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\hp\IdeaProjects\cs-665-project-template\src\main\java\edu\bu\met\cs665\example1\Main.java">
+<error line="17" column="34" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="18" column="31" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="21" column="32" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" column="33" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" column="38" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="26" column="29" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="27" column="29" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="28" column="30" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="31" column="26" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="32" column="28" severity="warning" message="WhitespaceAround: &apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\hp\IdeaProjects\cs-665-project-template\src\main\java\edu\bu\met\cs665\example1\VendingMachine.java">
+<error line="11" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" severity="warning" message="&apos;member def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="warning" message="&apos;ctor def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="28" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="32" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="17" severity="warning" message="&apos;ctor def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" column="32" severity="warning" message="WhitespaceAround: &apos;=&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="18" severity="warning" message="&apos;ctor def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="22" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="31" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" severity="warning" message="本行字符数 101个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="38" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" severity="warning" message="本行字符数 203个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="39" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="5" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="44" severity="warning" message="本行字符数 150个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="45" severity="warning" message="&apos;if&apos; 结构必须使用大括号 &apos;{}&apos;。" source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="45" severity="warning" message="&apos;if&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" severity="warning" message="&apos;else&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" severity="warning" message="&apos;if&apos; 结构必须使用大括号 &apos;{}&apos;。" source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="47" column="29" severity="warning" message="WhitespaceAround: &apos;&gt;&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="49" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="50" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="51" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="54" severity="warning" message="&apos;method def modifier&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="54" column="5" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="55" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="57" severity="warning" message="&apos;for&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="57" severity="warning" message="本行字符数 103个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="58" severity="warning" message="&apos;for&apos; 子元素缩进了12个缩进符，应为6个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="59" severity="warning" message="&apos;for rcurly&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="61" severity="warning" message="&apos;for&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="61" severity="warning" message="本行字符数 106个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="62" severity="warning" message="&apos;for&apos; 子元素缩进了12个缩进符，应为6个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" severity="warning" message="本行字符数 102个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="63" severity="warning" message="&apos;for rcurly&apos; 缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="64" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="65" severity="warning" message="&apos;method def&apos; 子元素缩进了8个缩进符，应为4个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="67" severity="warning" message="&apos;method def rcurly&apos; 缩进了4个缩进符，应为2个。" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>

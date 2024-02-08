@@ -1,0 +1,4 @@
+#Thu Feb 08 01:29:25 GMT-04:00 2024
+configuration*?=24E3A51B56ECF086C54F8052214C617A032FBC8A
+module-resource*?\:checkstyle-suppressions.xml=BD51DED088962EBA3C64CC429A95DC3720CADEE7
+module-resource*?\:checkstyle-xpath-suppressions.xml=EA47982A71542156D126C817113AF7AE0CF29B20
