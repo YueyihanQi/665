@@ -13,7 +13,7 @@ As an additional requirement, the coffee machine should have the capability to a
 
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/YueyihanQi/665
 
 # Implementation Description 
 
